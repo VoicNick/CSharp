@@ -1,0 +1,13 @@
+-code or approach similar to examples, solutions or slides - is this ok?
+-newClient bool field - in clientVM or Client?
+-validation to replace some SQL exceptions such as PK restrain, too long string, etc?
+
+To do:
+-validate primary key constrain = new validate data + new query in repo - in progress
+
+
+
+-Use MAsked text box to get Client code always in upper case
+-ErrorClass can display just one error by the OK button
+
+-

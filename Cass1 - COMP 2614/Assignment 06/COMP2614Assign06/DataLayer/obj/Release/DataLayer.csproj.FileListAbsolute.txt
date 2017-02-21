@@ -1,0 +1,4 @@
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 06\COMP2614Assign06\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 06\COMP2614Assign06\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 06\COMP2614Assign06\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 06\COMP2614Assign06\DataLayer\obj\Release\DataLayer.pdb

@@ -1,0 +1,9 @@
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\bin\Debug\COMP2614Assign05.exe.config
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\bin\Debug\COMP2614Assign05.exe
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\bin\Debug\COMP2614Assign05.pdb
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\obj\Debug\COMP2614Assign05.csprojResolveAssemblyReference.cache
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\obj\Debug\COMP2614Assign05.MainForm.resources
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\obj\Debug\COMP2614Assign05.Properties.Resources.resources
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\obj\Debug\COMP2614Assign05.csproj.GenerateResource.Cache
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\obj\Debug\COMP2614Assign05.exe
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 05\COMP2614Assign05\COMP2614Assign05\obj\Debug\COMP2614Assign05.pdb

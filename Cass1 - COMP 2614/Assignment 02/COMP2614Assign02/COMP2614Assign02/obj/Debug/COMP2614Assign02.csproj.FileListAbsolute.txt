@@ -1,0 +1,6 @@
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.exe.config
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.exe
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\bin\Debug\COMP2614Assign02.pdb
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.csprojResolveAssemblyReference.cache
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.exe
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\obj\Debug\COMP2614Assign02.pdb

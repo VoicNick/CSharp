@@ -1,0 +1,6 @@
+c:\users\voicu\documents\visual studio 2013\Projects\COMP2614Assign01\COMP2614Assign01\bin\Debug\COMP2614Assign01.exe.config
+c:\users\voicu\documents\visual studio 2013\Projects\COMP2614Assign01\COMP2614Assign01\bin\Debug\COMP2614Assign01.exe
+c:\users\voicu\documents\visual studio 2013\Projects\COMP2614Assign01\COMP2614Assign01\bin\Debug\COMP2614Assign01.pdb
+c:\users\voicu\documents\visual studio 2013\Projects\COMP2614Assign01\COMP2614Assign01\obj\Debug\COMP2614Assign01.csprojResolveAssemblyReference.cache
+c:\users\voicu\documents\visual studio 2013\Projects\COMP2614Assign01\COMP2614Assign01\obj\Debug\COMP2614Assign01.exe
+c:\users\voicu\documents\visual studio 2013\Projects\COMP2614Assign01\COMP2614Assign01\obj\Debug\COMP2614Assign01.pdb

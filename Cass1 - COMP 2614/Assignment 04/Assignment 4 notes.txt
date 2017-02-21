@@ -1,0 +1,6 @@
+Assign4 notes:
+- province filter options must NOT be hardoded, but queried form DB - select distinct from xxxx
+-then a parametrised query
+-the class to get th e data should include properties for all fieltsd in teh DB
+
+

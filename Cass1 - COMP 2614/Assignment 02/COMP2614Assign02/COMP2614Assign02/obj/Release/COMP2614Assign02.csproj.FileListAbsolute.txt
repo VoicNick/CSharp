@@ -1,0 +1,5 @@
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\bin\Release\COMP2614Assign02.exe.config
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\bin\Release\COMP2614Assign02.exe
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\bin\Release\COMP2614Assign02.pdb
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\obj\Release\COMP2614Assign02.exe
+C:\Users\Voicu\Desktop\Voicu School\__11 - 2016 - Summer COMP 2614\Assignments\Assignment 02\COMP2614Assign02\COMP2614Assign02\obj\Release\COMP2614Assign02.pdb

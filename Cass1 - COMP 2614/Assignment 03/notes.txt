@@ -1,0 +1,34 @@
+-no data validation needed, but data is used to determine formatting or output
+
+-do we have to validate or Worry about descr or otehr fields including | or : ?
+	-A: No
+
+
+-invoices need to be added to array or maybe a collection of classes? Collection will be covered next week.
+
+
+-invoice class 
+-invoice detail line class 
+-invoice class would have as properties: no, date, list of InvopiceDetailLine, diecount date - calc fields: totals, taxes, terms, and a field containig collection of detail line class ...
+-gst and pst one calculation, not in the detail line, using a total of the invoice
+-work on the cmd line, fiel reading, parsing (needs conversion!) done for next week
+
+-for parsing use String.split wiht a character and return an array of strings, one using | another using :
+-calculation in class, in the calculated properties
+
+-discout date = invoice date + days discount day
+
+-get date by split on \ and tehn create a dateTiem object with those arguments.
+
+
+-data structure: 
+
+
+Planning for classes:
+
+Invoice class:
+	attributes:
+		invoiceNo
+
+InvoiceDetailLine class:
+	
